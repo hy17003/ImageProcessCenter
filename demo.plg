@@ -1,0 +1,64 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: demo - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/demo.res" /d "_DEBUG" /d "_AFXDLL" "D:\VC写书\书稿\提交\随书发行的光盘资料\原代码\主要程序框架\demo\demo.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP92.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/demo.pdb" /debug /machine:I386 /out:"Debug/demo.exe" /pdbtype:sept 
+".\Debug\AvgDialog.obj"
+".\Debug\ChildFrm.obj"
+".\Debug\demo.obj"
+".\Debug\demoDoc.obj"
+".\Debug\demoView.obj"
+".\Debug\DIBapi.obj"
+".\Debug\FFT.OBJ"
+".\Debug\GeometryMoveDlg.obj"
+".\Debug\GeometryTrans.obj"
+".\Debug\GrayTrans.obj"
+".\Debug\histogram.obj"
+".\Debug\HistogramDrawDlg.obj"
+".\Debug\ImageRestore.obj"
+".\Debug\ImgCenterDib.obj"
+".\Debug\ImgEnhance.obj"
+".\Debug\InverseFilterDlg.obj"
+".\Debug\linearStretchParamDlg.obj"
+".\Debug\MainFrm.obj"
+".\Debug\MaskDefineDlg.obj"
+".\Debug\Match.obj"
+".\Debug\MedianDialog.obj"
+".\Debug\Morphology.obj"
+".\Debug\NonlinearStretchDlg.obj"
+".\Debug\PhaseCorre.obj"
+".\Debug\ProjectRestoreDlg.obj"
+".\Debug\RegionGrowDlg.obj"
+".\Debug\Register.obj"
+".\Debug\RotateSetDlg.obj"
+".\Debug\Segment.obj"
+".\Debug\SpecialEffectShow.obj"
+".\Debug\StdAfx.obj"
+".\Debug\ThreshSegmentDlg.obj"
+".\Debug\transeform.obj"
+".\Debug\transform_DCT.obj"
+".\Debug\Watershed.obj"
+".\Debug\WatershedParaDlg.obj"
+".\Debug\WienterFilterDlg.obj"
+".\Debug\Zoomdlg.obj"
+".\Debug\demo.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP92.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+demo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
